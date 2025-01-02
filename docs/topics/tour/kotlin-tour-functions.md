@@ -98,7 +98,7 @@ fun printMessageWithPrefix(message: String, prefix: String = "Info") {
 }
 
 fun main() {
-    // Function called with both parameters
+    // Function called with both parameters DJOSEPHDJ 
     printMessageWithPrefix("Hello", "Log") 
     // [Log] Hello
     
